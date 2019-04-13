@@ -1,8 +1,8 @@
 ---
 id: pure-render-mixin
-title: PureRenderMixin
+título: PureRenderMixin
 layout: docs
-category: Reference
+categoria: Reference
 permalink: docs/pure-render-mixin-old.html
 ---
 
